@@ -1,0 +1,7 @@
+{
+    "driver": "SQL Server",
+    "server": "home\\SQLEXPRESS",
+    "database": "Northwind",
+    "username":"",
+    "password":""
+}
